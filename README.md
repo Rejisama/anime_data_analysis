@@ -1,3 +1,5 @@
+Analyzing Anime Ratings in 2023
+
 This case study analyzes anime ratings using SQL and R programming. By exploring different dimensions of the dataset, we aim to uncover insights that can guide anime studios and marketers in their decision-making processes.
 
 Objectives
