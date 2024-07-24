@@ -7,7 +7,7 @@ Objectives
 2. Explore demographics like gender and age impact anime ratings. This can provide actionable insights, such as targeted recommendations for anime creators and marketers.
 3. Determine if there is a relationship between the number of episodes and an anime's rating.
 
-Source
+Source:
 The dataset source is entitled "Anime Dataset 2023" compiled by Sajid Uddin from the website myanimelist.net
 
 Source URL: https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
